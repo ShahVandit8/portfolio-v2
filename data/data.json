@@ -75,7 +75,7 @@
                     "Hardhat"
                 ],
                 "category" : "Blockchain",
-                "image": "/images/projects/nftlending.png",
+                "image": "/images/projects/NFTLending.png",
                 "liveLink": "",
                 "githubLink": "https://github.com/ShahVandit8/nft_lending_contracts"
             },
@@ -92,7 +92,7 @@
                     "MongoDB"
                 ],
                 "category" : "Full Stack",
-                "image": "/images/projects/lms.png",
+                "image": "/images/projects/LMS.png",
                 "liveLink": "https://thedigitalworkstation.netlify.app/",
                 "githubLink": ""
             },
@@ -109,7 +109,7 @@
                     "MongoDB"
                 ],
                 "category" : "Full Stack",
-                "image": "/images/projects/cms.png",
+                "image": "/images/projects/CMS.png",
                 "liveLink": "https://78degreescafe.netlify.app/",
                 "githubLink": ""
             },
@@ -125,7 +125,7 @@
                     "Vercel"
                 ],
                 "category" : "Nextjs",
-                "image": "/images/projects/aplifesecure.png",
+                "image": "/images/projects/APLIFESECURE.png",
                 "liveLink": "https://aplifesecure.ca",
                 "githubLink": ""
             },
@@ -140,7 +140,7 @@
                     "Vercel"
                 ],
                 "category" : "React",
-                "image": "/images/projects/portfoliov1.png",
+                "image": "/images/projects/Portfoliov1.png",
                 "liveLink": "https://v1.vandit-shah.me/",
                 "githubLink": "https://github.com/ShahVandit8/portfolio"
             }
