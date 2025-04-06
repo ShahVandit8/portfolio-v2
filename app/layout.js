@@ -104,7 +104,7 @@ export default function RootLayout({ children }) {
                 'https://v1.vandit-shah.me'
               ],
               description:
-                'Vandit Shah is a full-stack web developer and software developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
+                'Vandit Shah is a full-stack web developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
             }),
           }}
         />
