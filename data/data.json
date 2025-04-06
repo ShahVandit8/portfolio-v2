@@ -1,0 +1,166 @@
+{
+    "data": {
+        "fullName": "Vandit Shah",
+        "navtext": "Vandit Shah",
+        "email": "shahvandit8@gmail.com",
+        "titleArray": [
+            "Full-Stack Web Developer",
+            "Software Developer",
+            "Blockchain Enthusiast"
+        ],
+        "resumeLink": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ShahVandit8/repo-storage/refs/heads/main/myportfolio/resume/resume.pdf",
+        "skills": [
+            "/icons/JavaScript.png",
+            "/icons/React.png",
+            "/icons/Nextjs.png",
+            "/icons/Tailwind.png",
+            "/icons/Bootstrap.png",
+            "/icons/Typescript.png",
+            "/icons/Python.png",
+            "/icons/Nodejs.png",
+            "/icons/ExpressJs.png",
+            "/icons/MongoDB.png",
+            "/icons/MySQL.png",
+            "/icons/Java.png",
+            "/icons/Git.png",
+            "/icons/Figma.png",
+            "/icons/Ethereum.png",
+            "/icons/Solidity.png",
+            "/icons/Solana.png",
+            "/icons/Google-Cloud.png",
+            "/icons/AWS.png",
+            "/icons/Docker.png"
+        ],
+        "projects": [
+            {
+                "title": "Profile-X",
+                "type": "Github Profile Builder",
+                "description": "Create a stunning GitHub profile in minutes! ProfileX is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
+                "techStack": [
+                    "HTML",
+                    "CSS",
+                    "React",
+                    "JavaScript",
+                    "Bootstrap",
+                    "Vercel"
+                ],
+                "category" : "React",
+                "image": "/images/projects/profile-x.png",
+                "liveLink": "https://profilex.dev",
+                "githubLink": "https://github.com/shahvandit8/profile-x"
+            },
+            {
+                "title": "Blockchain-X",
+                "type": "Blockchain Simulator",
+                "description": "BlockchainX is an interactive blockchain simulator to visualize mining, create wallets, and send transactions in real-time. Learn blockchain and Bitcoin mining easily.",
+                "techStack": [
+                    "Nextjs",
+                    "React",
+                    "TypeScript",
+                    "TailwindCSS",
+                    "Shadcn"
+                ],
+                "category" : "Nextjs",
+                "image": "/images/projects/blockchain-x.png",
+                "liveLink": "https://shahvandit8.github.io/blockchain-simulator/",
+                "githubLink": "https://github.com/ShahVandit8/blockchain-simulator/"
+            },
+            {
+                "title": "NFT Lending Dapp Contract",
+                "type": "Solidity Smart Contracts",
+                "description": "NFTLendingContracts is a smart contract backend for an Ethereum-based NFT lending marketplace. It enables lending, borrowing, and liquidation of NFTs with ETH collateral, featuring a fixed 1% daily interest rate.",
+                "techStack": [
+                    "Ethereum",
+                    "Solidity",
+                    "Hardhat"
+                ],
+                "category" : "Blockchain",
+                "image": "/images/projects/nftlending.png",
+                "liveLink": "",
+                "githubLink": "https://github.com/ShahVandit8/nft_lending_contracts"
+            },
+            {
+                "title": "Learning Management System",
+                "type": "The Digital Workstation",
+                "description": "LMS for an offline learning institute, facilitating student enrollment, progress tracking, and instructor interaction.",
+                "techStack": [
+                    "React",
+                    "Bootstrap",
+                    "JavaScript",
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "category" : "Full Stack",
+                "image": "/images/projects/lms.png",
+                "liveLink": "https://thedigitalworkstation.netlify.app/",
+                "githubLink": ""
+            },
+            {
+                "title": "Cafe Management System",
+                "type": "78° Degree Cafe",
+                "description": "CMS for local cafe to streamline its online ordering system by integrated QR codes for Tables, Managing Orders, Kitchen Tickets and Customer Management.",
+                "techStack": [
+                    "React",
+                    "Bootstrap",
+                    "JavaScript",
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB"
+                ],
+                "category" : "Full Stack",
+                "image": "/images/projects/cms.png",
+                "liveLink": "https://78degreescafe.netlify.app/",
+                "githubLink": ""
+            },
+            {
+                "title": "Insurance Agency Website",
+                "type": "Business Website",
+                "description": "AP Life Secure - A Business Wesbite for Insurance Company, It was a Freelance Project. Looked after development, deployment and SEO.",
+                "techStack": [
+                    "Nextjs",
+                    "React",
+                    "Bootstrap",
+                    "JavaScript",
+                    "Vercel"
+                ],
+                "category" : "Nextjs",
+                "image": "/images/projects/aplifesecure.png",
+                "liveLink": "https://aplifesecure.ca",
+                "githubLink": ""
+            },
+            {
+                "title": "Developer Portfolio Website",
+                "type": "Portfolio",
+                "description": "A customizable React.js portfolio template. Update data.json to personalize—no coding needed! Perfect for showcasing your work.",
+                "techStack": [
+                    "React",
+                    "Bootstrap",
+                    "JavaScript",
+                    "Vercel"
+                ],
+                "category" : "React",
+                "image": "/images/projects/portfoliov1.png",
+                "liveLink": "https://v1.vandit-shah.me/",
+                "githubLink": "https://github.com/ShahVandit8/portfolio"
+            }
+        ],
+        "about": {
+            "main": "I’m Vandit, a budding full-stack web developer based in Toronto, Canada. Since my first coding adventure in 8th grade, I’ve been hooked on technology.",
+            "skills": [
+                "Software Development",
+                "Full Stack Development",
+                "Blockchain Development"
+            ],
+            "journey": "B.C.A. graduate, now exploring Blockchain at York University. I blend design and development to craft innovative solutions.",
+            "passion": "In recent years, I’ve dived into coding, building robust front-end stacks and tackling real-world challenges. I’m passionate about making a difference through technology.",
+            "connect": "Explore my portfolio and let’s connect for collaborations!"
+        },
+        "socialLinks": {
+            "github": "https://github.com/ShahVandit8",
+            "linkedin": "https://www.linkedin.com/in/shah-vandit/",
+            "medium": "https://medium.com/@shahvandit8",
+            "instagram": "https://www.instagram.com/shahvandit8/"
+        }
+    }
+}
