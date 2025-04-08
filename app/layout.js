@@ -101,7 +101,7 @@ export default function RootLayout({ children }) {
                 'https://www.linkedin.com/in/shah-vandit/',
                 'https://www.instagram.com/shahvandit8/',
                 'https://medium.com/@shahvandit8',
-                'https://v1.vandit-shah.me'
+                'https://vandit-shah.vercel.app/'
               ],
               description:
                 'Vandit Shah is a full-stack web developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
