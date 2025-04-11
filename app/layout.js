@@ -35,7 +35,7 @@ export const metadata = {
   ],
   authors: [{ name: 'Vandit Shah' }],
   alternates: {
-    canonical: 'https://vandit-shah.me',
+    canonical: 'https://vandit-shah.me/',
   },
   appleWebApp: {
     title: "Vandit-Shah-Portfolio"
@@ -84,28 +84,47 @@ export default function RootLayout({ children }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              '@context': 'https://schema.org',
-              '@type': 'Person',
-              name: 'Vandit Shah',
-              jobTitle: 'Full-Stack Web Developer',
-              address: {
-                '@type': 'PostalAddress',
-                addressLocality: 'Toronto',
-                addressRegion: 'ON',
-                addressCountry: 'Canada',
+            __html: JSON.stringify([
+              {
+                '@context': 'https://schema.org',
+                '@type': 'Person',
+                name: 'Vandit Shah',
+                jobTitle: 'Full-Stack Web Developer',
+                address: {
+                  '@type': 'PostalAddress',
+                  addressLocality: 'Toronto',
+                  addressRegion: 'ON',
+                  addressCountry: 'Canada',
+                },
+                url: 'https://vandit-shah.me',
+                sameAs: [
+                  'https://github.com/ShahVandit8',
+                  'https://www.linkedin.com/in/shah-vandit/',
+                  'https://www.instagram.com/shahvandit8/',
+                  'https://medium.com/@shahvandit8',
+                  'https://vandit-shah.vercel.app/'
+                ],
+                description:
+                  'Vandit Shah is a full-stack web developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
+                image: {
+                  '@type': 'ImageObject',
+                  url: 'https://vandit-shah.me/images/vandit-shah-headshot.png',
+                  caption: 'Headshot of Vandit Shah, a full-stack web developer',
+                },
               },
-              url: 'https://vandit-shah.me',
-              sameAs: [
-                'https://github.com/ShahVandit8',
-                'https://www.linkedin.com/in/shah-vandit/',
-                'https://www.instagram.com/shahvandit8/',
-                'https://medium.com/@shahvandit8',
-                'https://vandit-shah.vercel.app/'
-              ],
-              description:
-                'Vandit Shah is a full-stack web developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
-            }),
+              {
+                '@context': 'https://schema.org',
+                '@type': 'VideoObject',
+                name: 'Vandit Shah Portfolio Background Video',
+                description:
+                  'A background video showcasing Vandit Shah’s portfolio, highlighting skills and projects in full-stack web development and blockchain.',
+                thumbnailUrl: 'https://vandit-shah.me/background/bg.png',
+                contentUrl: 'https://vandit-shah.me/background/bg-video.mp4',
+                uploadDate: '2025-04-05',
+                duration: 'PT15S',
+                embedUrl: 'https://vandit-shah.me',
+              },
+            ]),
           }}
         />
       </Head>

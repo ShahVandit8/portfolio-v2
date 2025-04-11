@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://vandit-shah.me</loc>
+    <loc>https://vandit-shah.me/</loc>
     <lastmod>2025-04-11</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/vandit-shah-headshot.png</image:loc>
+      <image:caption>Headshot of Vandit Shah, a full-stack web developer</image:caption>
+      <image:title>Vandit Shah Headshot</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://vandit-shah.me/projects</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/profile-x.png</image:loc>
+      <image:caption>Profile-X by Vandit Shah - React Project</image:caption>
+      <image:title>Profile-X Project Image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/blockchain-x.png</image:loc>
+      <image:caption>Blockchain-X by Vandit Shah - Nextjs Project</image:caption>
+      <image:title>Blockchain-X Project Image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/NFTLending.png</image:loc>
+      <image:caption>NFT Lending Dapp Contract by Vandit Shah - Blockchain Project</image:caption>
+      <image:title>NFT Lending Dapp Contract Project Image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/LMS.png</image:loc>
+      <image:caption>Learning Management System by Vandit Shah - Full Stack Project</image:caption>
+      <image:title>Learning Management System Project Image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/CMS.png</image:loc>
+      <image:caption>Cafe Management System by Vandit Shah - Full Stack Project</image:caption>
+      <image:title>Cafe Management System Project Image</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/APLIFESECURE.png</image:loc>
+      <image:caption>Insurance Agency Website by Vandit Shah - Nextjs Project</image:caption>
+      <image:title>Insurance Agency Website Project Image</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://vandit-shah.me/images/projects/Portfoliov1.png</image:loc>
+      <image:caption>Developer Portfolio Website by Vandit Shah - React Project</image:caption>
+      <image:title>Developer Portfolio Website Project Image</image:title>
+    </image:image>
   </url>
 </urlset>

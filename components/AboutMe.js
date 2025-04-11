@@ -14,13 +14,13 @@ const AboutMe = () => {
                 <div className="flex flex-col md:flex-row">
                     <div className="p-0 md:p-6 w-full xl:w-34/100">
                         <Image
-                            src="/images/about/profile-picture.png"
+                            src="/images/vandit-shah-headshot.png"
                             width={0}
                             height={0}
                             sizes="100vw"
                             style={{ width: '100%' }}
                             className='rounded-lg object-cover w-full lg:w-140 h-full hover:scale-101 transition duration-300 ease-in-out'
-                            alt="Vandit Shah's Profile Picture"
+                            alt="Vandit Shah - Full-Stack Web Developer Headshot"
                         />
                     </div>
                     <div className='p-0 md:p-6 mt-6 md:mt-0 w-full xl:w-66/100 align-middle items-center'>

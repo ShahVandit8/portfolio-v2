@@ -20,7 +20,7 @@ const ProjectCard = (props) => {
                         sizes="100vw"
                         style={{ width: '100%' }}
                         className='rounded-lg object-cover w-full lg:w-200 h-full hover:scale-101 transition duration-300 ease-in-out'
-                        alt={`Vandit Shah's Project ${project.title}`}
+                        alt={`${project.title} by Vandit Shah - ${project.category} Project`}
                     />
                 </div>
                 <div className='p-4 md:p-6 w-full lg:w-55/100 grid grid-cols items-center'>
