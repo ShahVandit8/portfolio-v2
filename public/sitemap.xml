@@ -15,7 +15,7 @@
     <loc>https://vandit-shah.me/projects</loc>
     <lastmod>2025-04-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://vandit-shah.me/images/projects/profile-x.png</image:loc>
       <image:caption>Profile-X by Vandit Shah - React Project</image:caption>
@@ -46,7 +46,7 @@
       <image:caption>Insurance Agency Website by Vandit Shah - Nextjs Project</image:caption>
       <image:title>Insurance Agency Website Project Image</image:title>
     </image:image>
-      <image:image>
+    <image:image>
       <image:loc>https://vandit-shah.me/images/projects/Portfoliov1.png</image:loc>
       <image:caption>Developer Portfolio Website by Vandit Shah - React Project</image:caption>
       <image:title>Developer Portfolio Website Project Image</image:title>
