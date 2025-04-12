@@ -33,7 +33,7 @@ export default function ProjectsPage() {
 
     return (
         <section className="bg-black text-white py-6 mt-22">
-            <Head>
+            <head>
                 <script
                     type="application/ld+json"
                     dangerouslySetInnerHTML={{
@@ -52,7 +52,7 @@ export default function ProjectsPage() {
                         ),
                     }}
                 />
-            </Head>
+            </head>
             <main className="mx-auto px-6 md:px-8 lg:px-16">
 
                 <SectionHeader title={'projects'} description={'View all my latest projects here'} linkText={'back to home'} link={'/'} />

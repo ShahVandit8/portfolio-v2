@@ -80,7 +80,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="scroll-smooth" suppressHydrationWarning>
-      <Head>
+      <head>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -127,7 +127,7 @@ export default function RootLayout({ children }) {
             ]),
           }}
         />
-      </Head>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased `} suppressHydrationWarning
       >
