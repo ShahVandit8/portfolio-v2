@@ -54,6 +54,7 @@ export const metadata = {
         alt: 'Vandit Shah Portfolio Preview',
       },
     ],
+    logo: 'https://vandit-shah.me/logo/logo.png',
     locale: 'en_US',
     type: 'website',
   },
@@ -127,6 +128,7 @@ export default function RootLayout({ children }) {
             ]),
           }}
         />
+        <meta property="og:logo" content="https://vandit-shah.me/logo/logo.png"></meta>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased `} suppressHydrationWarning

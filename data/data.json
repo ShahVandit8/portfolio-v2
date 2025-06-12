@@ -33,6 +33,23 @@
         ],
         "projects": [
             {
+                "title": "Blockchain Vehicle Lifecycle Tracker",
+                "type": "AutoCertify",
+                "description": "AutoCertify is a full-stack decentralized application for tracking vehicle lifecycle events such as ownership transfers, service records, and crash history using smart contracts and NFTs. It includes a Next.js frontend and Hardhat for Ethereum smart contract development.",
+                "techStack": [
+                    "Nextjs",
+                    "JavaScript",
+                    "Solidity",
+                    "Ethereum",
+                    "Hardhat",
+                    "Mocha"
+                ],
+                "category" : "React",
+                "image": "/images/projects/AutoCertify.png",
+                "liveLink": "",
+                "githubLink": "https://github.com/AutoCertifyOrg/AutoCertify"
+            },
+            {
                 "title": "Profile-X",
                 "type": "Github Profile Builder",
                 "description": "Create a stunning GitHub profile in minutes! ProfileX is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
