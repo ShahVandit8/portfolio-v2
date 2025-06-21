@@ -10,7 +10,7 @@ const ProjectsSection = () => {
     const { projects } = data.data;
 
     // State for number of projects to display
-    const [visibleProjects, setVisibleProjects] = useState(3);
+    const [visibleProjects, setVisibleProjects] = useState(5);
 
     // Function to load more projects
     const loadMoreProjects = () => {

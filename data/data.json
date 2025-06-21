@@ -49,22 +49,21 @@
                 "liveLink": "",
                 "githubLink": "https://github.com/AutoCertifyOrg/AutoCertify"
             },
-            {
-                "title": "Profile-X",
-                "type": "Github Profile Builder",
-                "description": "Create a stunning GitHub profile in minutes! ProfileX is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
+             {
+                "title": "Restaurant Experience Tracker",
+                "type": "MunchBook",
+                "description": "MunchBook is a full-stack restaurant dining tracking and food review application tailored for food-loving groups and families. It enables users to document and analyze their culinary experiences by logging detailed restaurant visits, and leveraging smart analytics and suggestion engines to guide future food adventures.",
                 "techStack": [
-                    "HTML",
-                    "CSS",
-                    "React",
-                    "JavaScript",
-                    "Bootstrap",
+                    "Nextjs",
+                    "TypeScript",
+                    "MongoDB",
+                    "TailwindCSS",
                     "Vercel"
                 ],
-                "category" : "React",
-                "image": "/images/projects/profile-x.png",
-                "liveLink": "https://profilex.dev",
-                "githubLink": "https://github.com/shahvandit8/profile-x"
+                "category" : "Nextjs",
+                "image": "/images/projects/MunchBook.png",
+                "liveLink": "https://munchbook.vercel.app/",
+                "githubLink": "https://github.com/ShahVandit8/MunchBook"
             },
             {
                 "title": "Blockchain-X",
@@ -81,6 +80,23 @@
                 "image": "/images/projects/blockchain-x.png",
                 "liveLink": "https://shahvandit8.github.io/blockchain-simulator/",
                 "githubLink": "https://github.com/ShahVandit8/blockchain-simulator/"
+            },
+            {
+                "title": "Profile-X",
+                "type": "Github Profile Builder",
+                "description": "Create a stunning GitHub profile in minutes! ProfileX is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
+                "techStack": [
+                    "HTML",
+                    "CSS",
+                    "React",
+                    "JavaScript",
+                    "Bootstrap",
+                    "Vercel"
+                ],
+                "category" : "React",
+                "image": "/images/projects/profile-x.png",
+                "liveLink": "https://profilex.dev",
+                "githubLink": "https://github.com/shahvandit8/profile-x"
             },
             {
                 "title": "NFT Lending Dapp Contract",
